@@ -314,7 +314,7 @@ export const SEO_CONFIG = {
   ].join(", "),
   author: "Madu Kamii",
   robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
-  googleSiteVerification: "your-google-verification-code",
+  googleSiteVerification: "4GXscRip8VKWl7_LgYijJQP6Me-Q8R9WjZNEnwqdRy0",
   canonical: "https://madu-kamii.vercel.app",
   ogImage: "/images/og-madu-kamii.jpg",
 };
